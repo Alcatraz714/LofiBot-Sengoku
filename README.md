@@ -40,3 +40,4 @@ Your own LofiBot Sengoku waifu bot with replies and new gifs and images for a ea
 ██      ██  ██        ██      ██      ██  ██  ██  ██████████
 ██      ██  ██        ██      ██      ██  ██  ██  ██        
 ██      ██  ██        ██    ██████    ██  ██  ██    ██████  
+//Anime Faces by Logs
